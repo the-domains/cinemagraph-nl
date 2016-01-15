@@ -1,28 +1,40 @@
-name: Cinemagraph.nl
-favicon: null
 layout_spectrum: 0.49326
-typography_spectrum: 0.37937
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.3125
+  brandStrength: 0.4595745
+  lightness: 0.1875
   brandColors:
     - '#140f0b'
     - '#725f52'
     - '#bd9373'
     - '#564830'
     - '#deb89d'
-  brandStrength: 0.3125
-  lightness: 0.1875
-  saturation: 0.3125
   rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.1978723
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Cinemagraph.nl
