@@ -1,4 +1,4 @@
-name: Cinemagraph.nl
+layout_spectrum: 1
 opengraph:
   image: null
   type: null
@@ -9,32 +9,31 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
   saturation: 0.2808511
   lightness: 0.5085106
-  brandStrength: 0.3617021
+  brandStrength: 0.8212766
   brandColors:
-    - '#FFFFFF'
-    - '#FFAB42'
-    - '#7F6E65'
-    - '#BD081C'
-    - '#2F2E2F'
+    - '#181718'
+    - '#D7BCAC'
+    - '#885C4B'
+    - '#A3A3A3'
   rhythmicContrast: 0.75
 typography_spectrum: 0.3659574
-layout_spectrum: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
 favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+name: Cinemagraph.nl
