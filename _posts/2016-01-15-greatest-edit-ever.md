@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2016-01-15T13:58:19.601Z'
+datePublished: '2016-01-15T14:07:18.701Z'
 publisher:
   name: ''
   domain: ''
 title: 'Greatest Edit ever!'
-dateModified: '2016-01-15T13:57:43.228Z'
+dateModified: '2016-01-15T13:58:19.601Z'
 sourcePath: _posts/2016-01-15-greatest-edit-ever.md
 published: true
 inFeed: true
