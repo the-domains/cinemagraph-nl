@@ -1,5 +1,4 @@
-favicon: null
-layout_spectrum: 1
+name: Cinemagraph.nl
 opengraph:
   image: null
   type: null
@@ -18,9 +17,9 @@ collections:
       path: '/:title/'
 purpose: []
 color:
-  saturation: 0.5978723
-  brandStrength: 0.3617021
+  saturation: 0.2808511
   lightness: 0.5085106
+  brandStrength: 0.3617021
   brandColors:
     - '#FFFFFF'
     - '#FFAB42'
@@ -29,12 +28,13 @@ color:
     - '#2F2E2F'
   rhythmicContrast: 0.75
 typography_spectrum: 0.3659574
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 1
 analytics:
   twitter: null
   google: null
   facebook: null
-name: Cinemagraph.nl
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
