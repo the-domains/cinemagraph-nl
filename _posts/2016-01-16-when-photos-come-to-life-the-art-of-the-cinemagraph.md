@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://time.com/3388024/when-photos-come-to-life-the-art-of-the-cinemagraph/'
 title: 'When Photos Come to Life: The Art of the Cinemagraph'
-datePublished: '2016-01-16T11:10:19.375Z'
-dateModified: '2016-01-16T11:09:55.420Z'
+datePublished: '2016-01-16T11:18:23.460Z'
+dateModified: '2016-01-16T11:10:19.375Z'
 sourcePath: _posts/2016-01-16-when-photos-come-to-life-the-art-of-the-cinemagraph.md
 published: true
 inFeed: true
