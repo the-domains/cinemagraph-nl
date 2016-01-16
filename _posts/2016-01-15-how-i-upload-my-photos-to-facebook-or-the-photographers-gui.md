@@ -17,7 +17,7 @@ keywords:
   - web
   - gif
 description: "If there is one thing I get asked, and that has been answered online time and again, it's \"How do I get my photos to look like I want them to look on Facebook?\" followed immediately by \"Why does Facebook ruin my photos anyway?\" and finally \"I just want my photos to look awesome on Facebook.\""
-datePublished: '2016-01-16T12:17:18.073Z'
+datePublished: '2016-01-16T12:17:18.078Z'
 dateModified: '2016-01-16T12:17:17.629Z'
 author:
   - name: Nino Batista
